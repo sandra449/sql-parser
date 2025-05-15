@@ -1,0 +1,8 @@
+[package]
+name = "sql_parser"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sandaru Sahil Peiris Jayasuriya Mahathelge <peiris.mahathelge@sa.stud.vu.lt>"]
+description = "A SQL parser implementation for the Programming Languages course"
+
+[dependencies]
