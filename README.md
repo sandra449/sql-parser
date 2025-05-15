@@ -38,11 +38,3 @@ Example queries:
 SELECT name, age FROM users WHERE age > 18;
 CREATE TABLE products (id INT PRIMARY KEY, name VARCHAR(100));
 ```
-
-## Author
-
-Sandra Sanda <sanda.sandra@student.upt.ro>
-
-## License
-
-This project is part of the Programming Languages course at UPT.
